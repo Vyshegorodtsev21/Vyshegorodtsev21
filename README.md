@@ -22,8 +22,7 @@
 | Название | Форма обучения | Статус/Сертификат |
 | :--- | :---: | :---: |
 | [Яндекс.Практикум DataScience](https://practicum.yandex.ru/profile/data-scientist/) | Дистанционная | [В процессе обучения]
-| [Stepik "Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus) | Дистанционная | [Сертификат](
-https://stepik.org/cert/1307503) |
+| [Stepik "Поколение Python": курс для продвинутых](https://stepik.org/course/68343/syllabus) | Дистанционная | [Сертификат](https://stepik.org/cert/1307503) |
 | [Stepik Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus) | Дистанционная | [Сертификат](https://stepik.org/cert/1414187) |
 | [Stepik Основы статистики](https://stepik.org/course/76/syllabus) | Дистанционная | [Сертификат](https://stepik.org/cert/2218399) |
 
