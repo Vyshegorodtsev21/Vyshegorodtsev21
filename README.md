@@ -7,8 +7,6 @@
 
 [![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti_21)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gotti_21&theme=dark)](https://github.com/gotti_21/leetcode-stats)
-
 ## Высшее образование
 
 | ВУЗ | Направление | Специальность |
