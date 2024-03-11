@@ -3,6 +3,7 @@
 <h3 align="center">Начинающий и очень мотивированный Data Scientis</h3>
 <h3 align="center">За время учёбы в Яндекс.Практикум освоил Python, SQL и основные инструменты для машинного обучения. Дополнительно прошёл курсы по Python и статистике от Института биоинформатики.</h3>
 
+##
 
 [![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti_21)
 
