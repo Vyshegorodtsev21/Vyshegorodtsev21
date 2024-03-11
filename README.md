@@ -6,7 +6,9 @@
 
 В настоящий момент ищу full-time работу в роли Data Scientist
 
-[![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti21)
+[![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti_21)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=gotti_21&theme=dark)](https://github.com/gotti_21/leetcode-stats)
 
 ## Высшее образование
 
