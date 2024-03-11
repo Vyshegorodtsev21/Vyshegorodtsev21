@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Начинающий и очень мотивированный Data Scientis</h3>
-<h3 align="center">За время учёбы в Яндекс.Практикум освоил Python, SQL и основные инструменты для машинного обучения. Дополнительно прошёл курсы по Python и статистике от Института биоинформатики.
-В настоящий момент ищу full-time работу в роли Data Scientist</h3>
-
+<h3 align="center">За время учёбы в Яндекс.Практикум освоил Python, SQL и основные инструменты для машинного обучения. Дополнительно прошёл курсы по Python и статистике от Института биоинформатики.</h3>
 
 
 [![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti_21)
