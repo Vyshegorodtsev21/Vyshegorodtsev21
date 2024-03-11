@@ -6,6 +6,8 @@
 
 В настоящий момент ищу full-time работу в роли Data Scientist
 
+[![codewars](https://www.codewars.com/users/gotti21/badges/large)](https://www.codewars.com/users/gotti21)
+
 ## Высшее образование
 
 | ВУЗ | Направление | Специальность |
