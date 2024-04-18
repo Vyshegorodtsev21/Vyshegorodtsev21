@@ -34,7 +34,7 @@
 
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
-| [Классификация комментариевс BERT](https://github.com/Vyshegorodtsev21/Practicum/tree/main/2024-comments-classification) | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Обучим модель классифицировать комментарии на позитивные и негативные. | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, torch, transformers, tqdm, pandarallel, catboost, mglearn, pymystem3, wordcloud* |
+| [Классификация комментариев с BERT](https://github.com/Vyshegorodtsev21/Practicum/tree/main/2024-comments-classification) | Интернет-магазин запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Обучим модель классифицировать комментарии на позитивные и негативные. | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, torch, transformers, tqdm, pandarallel, catboost, mglearn, pymystem3, wordcloud* |
 
 ### Временные ряды
 
